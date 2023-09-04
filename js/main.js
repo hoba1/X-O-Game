@@ -79,5 +79,5 @@ function game(id){
 
 document.querySelector(".Restart").addEventListener("click", () => {
     localStorage.clear()
-    location.href = "../index.html"
+    location.href = "index.html"
 })
